@@ -1,1 +1,1 @@
-# QRcodeVStail
+# QRcode with tail
